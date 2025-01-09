@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Make It now</title>
+    <link rel="stylesheet" href="event.css">
+</head>
+<body>
+    <header>
+        <h1>Make It Now</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="hero">
+        <h2>Welcome to Our Online Event Planning Platform</h2>
+        <p>Plan and host your virtual events with ease!</p>
+        <a href="#" class="btn">Get Started</a>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <div class="service">
+            <h3>Virtual Event Planning</h3>
+            <p>We offer comprehensive virtual event planning services, including event logistics, marketing, attendee engagement, and technical support.</p>
+        </div>
+        <div class="service">
+            <h3>Webinar Hosting</h3>
+            <p>Host engaging webinars for your audience with our platform. We provide tools for presentations, audience interaction, and Q&A sessions.</p>
+        </div>
+        <!-- Add more services here -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Online Event Planning and Coordination</p>
+    </footer>
+</body>
+</html>
